@@ -92,7 +92,7 @@ From parent component:
 ```typescript
 import { NgxMasonryOptions } from 'ngx-masonry';
 
-public myOptions: MasonryOptions = {
+public myOptions: NgxMasonryOptions = {
   gutter: 10
 };
 ```
